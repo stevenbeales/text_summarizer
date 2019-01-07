@@ -1,10 +1,12 @@
-    Like a bowling ball on a skating rink, the black geodesic sphere of the East
-    Greenland Ice-Core Project's communal living space stands out against the
-    endless white nothingness of the Greenland ice sheet. If all the ice
-    covering the world's largest island were to thaw, sea levels would rise
-    roughly 6 meters. And the same processes at work on Greenland's glaciers at
-    the top of the world could send vast sections of Antarctica's ice sheet into
-    the sea as well, raising ocean levels even further. Departing from
-    Kangerlussuaq, VOA visited East GRIP and other remote corners of Greenland
-    with the 109th Airlift Wing of the U.S. Air National Guard for a firsthand
-    look at science in action at the leading edge of climate change.
+    Colloquially, the term "artificial intelligence" is applied when a machine
+    mimics "cognitive" functions that humans associate with other human minds,
+    such as "learning" and "problem solving". The scope of AI is disputed: as
+    machines become increasingly capable, tasks considered as requiring
+    "intelligence" are often removed from the definition, a phenomenon known as
+    the AI effect, leading to the quip in Tesler's Theorem, "AI is whatever
+    hasn't been done yet." "Keyword spotting" strategies for search are popular
+    and scalable but dumb; a search query for "dog" might only match documents
+    with the literal word "dog" and miss a document with the word "poodle". The
+    net forms "concepts" that are distributed among a subnetwork of shared[j]
+    neurons that tend to fire together; a concept meaning "leg" might be coupled
+    with a subnetwork meaning "foot" that includes the sound for "foot".
